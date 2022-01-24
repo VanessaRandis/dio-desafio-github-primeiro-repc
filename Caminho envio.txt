@@ -1,0 +1,16 @@
+Caminho para o envio das atualizações GitHub.
+
+git clone(Inseri o link ssh)
+
+git add .
+
+git status 
+
+git commit -m " NOME DA ALTERAÇÃO"
+
+git status
+
+git push irigin main
+ 
+* IR ATÉ O Github fazer a atualização 
+
