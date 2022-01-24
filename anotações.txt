@@ -1,0 +1,7 @@
+* git bash é um terminal de acesso
+
+
+* link para download do git 
+
+
+ link de acesso a informações do markdown https://www.markdownguide.org/
